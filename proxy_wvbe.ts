@@ -1,0 +1,1 @@
+const service_wvbe = <T>(args: T): T => { return args; };
