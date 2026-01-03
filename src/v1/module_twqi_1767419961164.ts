@@ -1,0 +1,1 @@
+const util_twqi = (d: any) => d;
